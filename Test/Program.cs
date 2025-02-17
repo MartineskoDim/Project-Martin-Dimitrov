@@ -6,5 +6,9 @@
         {
             Console.WriteLine(Console.ReadLine());
         }
+        public static void Print()
+        {
+            Console.WriteLine(Console.Read());
+        }
     }
 }
